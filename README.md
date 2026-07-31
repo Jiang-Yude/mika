@@ -50,7 +50,17 @@ Mika 共用同一個靈魂與邊界，但會在不同場域執行不同任務：
 
 ## 相關
 
-- 江江教練知識管理官網：https://ai-km-jiang.vercel.app/
+- 江江教練知識管理官網：https://jiangyude.com/
 - 江江教練 AI 名片：https://jiang-yude.github.io/jiang-card/
 
 MIT License
+
+---
+
+## 維護者
+
+江昱德（Jiang Yude）<br>
+隱性知識提煉師<br>
+AI 知識架構師
+
+[知識官網](https://jiangyude.com/) · [Threads](https://www.threads.com/@jiang_yude_coach)
